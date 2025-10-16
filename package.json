@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/synthetics.git"
+    "url": "git+https://github.com/v1v/synthetics.git"
   },
   "keywords": [
     "elastic",
